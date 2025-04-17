@@ -46,12 +46,7 @@ I'm a passionate **Software Developer** with expertise in building scalable web 
 
 ### Notable Projects:
 - **[Multi Agent AI Framework]([https://github.com/Shubham-Bishnoi/ProjectName1](https://github.com/sidowic/multi-agent-ai-framework))**:
-- **[Item Price Forecasting]([https://github.com/Shubham-Bishnoi/ProjectName2](https://github.com/sidowic/item-price-forecasting)**:
----
-
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidowic&show_icons=true&theme=radical)
-
+- **[Item Price Forecasting](https://github.com/sidowic/item-price-forecasting)**:
 ---
 
 ### Contact Me
